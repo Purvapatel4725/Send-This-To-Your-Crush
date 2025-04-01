@@ -11,10 +11,9 @@ A cute and playful way to confess your feelings to your special someone! This in
 
 ## How to Use 🚀
 
-1. Clone this repository
-2. Open `index.html` in your browser
-3. Share the link with your crush
-4. Watch the magic happen! ✨
+- Clone this repository AND Open `index.html` in your browser
+- OR Share the link with your crush: http://love.purvapatel.xyz
+- Watch the magic happen! ✨
 
 ## Why This Exists 🌟
 
