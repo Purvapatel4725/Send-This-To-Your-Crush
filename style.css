@@ -11,8 +11,6 @@ body {
     min-height: 100vh;
     background: whitesmoke;
     overflow: hidden;
-    position: relative;
-    padding-bottom: 60px;
 }
 
 .wrapper {
@@ -65,22 +63,4 @@ button.no-btn {
     color: #e94d58;
     position: fixed;
     z-index: 1000;
-}
-
-.footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    padding: 15px;
-    background: rgba(255, 255, 255, 0.9);
-    font-family: Arial, sans-serif;
-    color: #666;
-    font-size: 0.9em;
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
-}
-
-.footer p {
-    margin: 0;
 }

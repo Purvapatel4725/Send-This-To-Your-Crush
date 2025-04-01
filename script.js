@@ -9,6 +9,7 @@ yesBtn.addEventListener("click", () => {
   // Hide the No button with a fade out effect
   noBtn.style.transition = "opacity 0.5s ease";
   noBtn.style.opacity = "0";
+  // Remove the button after the fade out
   setTimeout(() => {
     noBtn.style.display = "none";
   }, 500);
