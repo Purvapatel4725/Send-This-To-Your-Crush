@@ -21,7 +21,7 @@ Because sometimes you need a little help to express your feelings! This cute web
 
 ## Author 💝
 
-Made with love by Purva Patel
+Made with love by **Purva Patel**
 
 ---
 
